@@ -1,0 +1,12 @@
+{
+  "name": "playwright-qa-scraper",
+  "version": "1.0.0",
+  "description": "QA automation for DataDash reports",
+  "main": "playwright-scraper.js",
+  "scripts": {
+    "scrape": "node playwright-scraper.js"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0"
+  }
+}
